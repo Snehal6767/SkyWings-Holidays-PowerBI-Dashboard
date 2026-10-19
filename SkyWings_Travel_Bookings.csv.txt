@@ -1,0 +1,13 @@
+Booking_ID,Departure_Base,Destination,Booking_Type,Customer_Segment,Lead_Days,Passengers,Total_Revenue
+B1001,Manchester,Palma de Mallorca,Package Holiday,Family,120,4,3200
+B1002,London Stansted,Tenerife,Flight Only,Couple,14,2,380
+B1003,Birmingham,Faro,Package Holiday,Couple,60,2,1450
+B1004,Manchester,Alicante,Flight Only,Solo,5,1,110
+B1005,Leeds Bradford,Ibiza,Package Holiday,Group,90,5,4100
+B1006,London Stansted,Palma de Mallorca,Package Holiday,Family,105,4,3100
+B1007,Birmingham,Tenerife,Flight Only,Couple,30,2,420
+B1008,Newcastle,Antalya,Package Holiday,Family,150,4,3800
+B1009,Manchester,Faro,Flight Only,Solo,3,1,95
+B1010,Leeds Bradford,Alicante,Package Holiday,Couple,45,2,1300
+B1011,London Stansted,Ibiza,Flight Only,Group,20,4,880
+B1012,Newcastle,Palma de Mallorca,Package Holiday,Family,80,3,2400
